@@ -1,4 +1,4 @@
-package com.dacheng.coordinatorlayout_recyclerview;
+package com.dacheng.coordinatorlayout_recyclerview.sticklayout;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import java.util.ArrayList;
+import com.dacheng.coordinatorlayout_recyclerview.R;
 
 /**
  * Created by dacheng on 16/8/22.

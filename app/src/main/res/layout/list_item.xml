@@ -77,4 +77,24 @@
         android:textSize="12sp"
         android:textColor="@color/white"
         android:background="@drawable/live_item_tag_background"/>
+    <TextView
+        android:id="@+id/item_users"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="13dp"
+        android:layout_marginRight="20dp"
+        android:drawableTop="@mipmap/live_item_zan"
+        android:text="1234"
+        android:textSize="12sp"
+        android:textColor="@color/white" />
+    <com.dacheng.coordinatorlayout_recyclerview.sticklayout.like.FavorView
+        android:id="@+id/periscope"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        >
+    </com.dacheng.coordinatorlayout_recyclerview.sticklayout.like.FavorView>
 </RelativeLayout>

@@ -1,4 +1,4 @@
-package com.dacheng.coordinatorlayout_recyclerview;
+package com.dacheng.coordinatorlayout_recyclerview.sticklayout;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

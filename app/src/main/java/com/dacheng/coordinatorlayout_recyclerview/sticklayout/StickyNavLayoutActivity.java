@@ -6,9 +6,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
 
-import com.dacheng.coordinatorlayout_recyclerview.ListFragment;
 import com.dacheng.coordinatorlayout_recyclerview.R;
-import com.dacheng.coordinatorlayout_recyclerview.ViewPagerAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,3 +1,3 @@
-# CoordinatorLayout-RecyclerView
+# StickyNavLayout
 
 一个StickyNavLayout的Demo，仿蘑菇街直播页面
