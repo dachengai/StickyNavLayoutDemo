@@ -89,12 +89,12 @@
         android:text="1234"
         android:textSize="12sp"
         android:textColor="@color/white" />
-    <com.dacheng.coordinatorlayout_recyclerview.sticklayout.like.FavorView
+    <com.dacheng.coordinatorlayout_recyclerview.sticklayout.views.FavorView
         android:id="@+id/periscope"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
         >
-    </com.dacheng.coordinatorlayout_recyclerview.sticklayout.like.FavorView>
+    </com.dacheng.coordinatorlayout_recyclerview.sticklayout.views.FavorView>
 </RelativeLayout>

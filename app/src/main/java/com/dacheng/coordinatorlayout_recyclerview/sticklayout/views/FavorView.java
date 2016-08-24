@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.dacheng.coordinatorlayout_recyclerview.sticklayout.like;
+package com.dacheng.coordinatorlayout_recyclerview.sticklayout.views;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

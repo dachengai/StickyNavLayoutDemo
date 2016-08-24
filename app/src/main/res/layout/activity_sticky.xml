@@ -9,17 +9,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
-        <TextView
-            android:id="@+id/relativeLayout"
+        <com.dacheng.coordinatorlayout_recyclerview.sticklayout.views.AutoScrollBanner
+            android:id="@+id/autoscrollbanner"
             android:layout_width="match_parent"
-            android:layout_height="160dp"
-            android:layout_margin="10dp"
-            android:background="#3CB371"
-            android:gravity="center"
-            android:text="banner"
-            android:textColor="@color/white">
+            android:layout_height="180dp">
 
-        </TextView>
+        </com.dacheng.coordinatorlayout_recyclerview.sticklayout.views.AutoScrollBanner>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.dacheng.coordinatorlayout_recyclerview.R;
-import com.dacheng.coordinatorlayout_recyclerview.sticklayout.like.FavorView;
+import com.dacheng.coordinatorlayout_recyclerview.sticklayout.views.FavorView;
 
 /**
  * Created by dacheng on 16/8/22.

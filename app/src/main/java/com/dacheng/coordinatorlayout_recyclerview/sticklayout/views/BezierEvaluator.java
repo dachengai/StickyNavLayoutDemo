@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.dacheng.coordinatorlayout_recyclerview.sticklayout.like;
+package com.dacheng.coordinatorlayout_recyclerview.sticklayout.views;
 
 import android.animation.TypeEvaluator;
 import android.graphics.PointF;
